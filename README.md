@@ -10,4 +10,4 @@
 
 4.[Практическая работа №4](https://github.com/sapperka/CCCL/blob/main/PZ4.md)
 
-5.[Практическая работа №5]()
+5.[Практическая работа №5](https://github.com/sapperka/CCCL/blob/main/PZ5.md)
