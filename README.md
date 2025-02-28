@@ -8,6 +8,6 @@
 
 3.[Практическая работа №3](https://github.com/sapperka/CCCL/blob/main/PZ3.md)
 
-4.[Практическая работа №4]()
+4.[Практическая работа №4](https://github.com/sapperka/CCCL/blob/main/PZ4.md)
 
 5.[Практическая работа №5]()
