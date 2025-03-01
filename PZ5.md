@@ -53,7 +53,8 @@
 
 Проверка логов Suricata на Wazuh-сервере:
 
-![image](https://github.com/user-attachments/assets/9d730217-e22f-4025-af96-68d1f9b7d5f3)
+![image](https://github.com/user-attachments/assets/841ac851-61fc-47fd-8fd8-3cc810604121)
+
 
 
 
