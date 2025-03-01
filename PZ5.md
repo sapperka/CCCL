@@ -39,13 +39,17 @@
 
 Настройка конфигурации Suricata IDS:
 
-![image](https://github.com/user-attachments/assets/d65c5987-01f3-468b-b2f8-03106ba2397a)
-![image](https://github.com/user-attachments/assets/50e3d1b4-ec4d-4633-9008-5325bde92c7e)
-![image](https://github.com/user-attachments/assets/82156d7a-42ac-43c0-85e2-0feadd4d2847)
+![image](https://github.com/user-attachments/assets/5f5df923-1053-41ef-9381-7fb1cc3e1683)
+
+![image](https://github.com/user-attachments/assets/88d51334-9c6b-4544-a4ff-739e25e4c995)
+
+![image](https://github.com/user-attachments/assets/5607ef86-6148-42f6-9501-cc7d4088dd10)
+
 
 Настройка сбора логов и передачи в Wazuh-сервер:
 
-![image](https://github.com/user-attachments/assets/7f83ba1f-932d-4b13-af18-646e42b097ab)
+![image](https://github.com/user-attachments/assets/ee27d3f3-07f6-415d-9ffb-d69fca40d70d)
+
 
 Проверка логов Suricata на Wazuh-сервере:
 
