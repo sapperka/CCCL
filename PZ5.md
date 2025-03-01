@@ -53,7 +53,8 @@
 
 Проверка логов Suricata на Wazuh-сервере:
 
-![image](https://github.com/user-attachments/assets/2163ff69-033b-4cf9-a32d-9c12ba6ebac4)
+![image](https://github.com/user-attachments/assets/9d730217-e22f-4025-af96-68d1f9b7d5f3)
+
 
 
 5. Установка ThreatHuntingTools утилиты YARA для передачи обнаружений в Wazuh:
